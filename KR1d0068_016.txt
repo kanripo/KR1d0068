@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定禮記義疏
-#+DATE: 2015-09-23 09:38:31
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:10:49.659342
+#+PROPERTY: ID KR1d0068
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十六
 <pb:KR1d0068_WYG_016-1a>¶
 欽定四庫全書¶
 欽定禮記義疏卷十六¶
@@ -1118,4 +1120,3 @@
 　故曰國非其國也不然有九年六年不具論猶有三¶
 　年之食而曰國非其國不已甚乎¶
 欽定禮記義疏卷十六¶
-

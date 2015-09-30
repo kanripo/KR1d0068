@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定禮記義疏
-#+DATE: 2015-09-23 09:38:31
-#+PROPERTY: JUAN 56
+#+DATE: 2015-08-24 22:10:50.809685
+#+PROPERTY: ID KR1d0068
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷五十六
 <pb:KR1d0068_WYG_056-1a>¶
 欽定四庫全書¶
 欽定禮記義疏卷五十六¶
@@ -830,4 +832,3 @@
 　其上以為飾如弁縫之五采紃也¶
 　¶
 欽定禮記義疏卷五十六¶
-

@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 欽定禮記義疏
-#+DATE: 2015-09-23 09:38:31
-#+PROPERTY: JUAN 24
+#+DATE: 2015-08-24 22:10:49.845908
+#+PROPERTY: ID KR1d0068
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十四
 <pb:KR1d0068_WYG_024-1a>¶
 欽定四庫全書¶
 欽定禮記義疏卷二十四¶
@@ -812,4 +814,3 @@
 　應行冬令則為丑土之氣所應行春令則為辰土之¶
 　氣所應也¶
 欽定禮記義疏卷二十四¶
-
